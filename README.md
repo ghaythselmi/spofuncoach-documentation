@@ -19,12 +19,10 @@ This repository focuses exclusively on the **analysis and design phase** of the 
 ## 📂 Repository Contents
 
 - 📑 Project Report
-- 🎯 Requirements Analysis
 - 👤 Use Case Diagrams
 - 🏗️ Class Diagram
 - 🔄 Sequence Diagrams
 - 📊 Activity Diagrams
-- 🎭 State Diagrams
 - 🌐 Deployment Diagram
 - 📝 Additional design artifacts
 
@@ -44,6 +42,14 @@ The UML diagrams and system conception were created using:
 As a recent software engineering graduate, I know how difficult it can be to find complete and well-organized examples of software engineering documentation.
 
 For that reason, I decided to share the conception of this project publicly. If these diagrams or the report help another student understand UML, software analysis, or project documentation, then this repository has achieved its purpose.
+
+---
+
+## 📄 Download
+
+The complete project report is available in the latest release.
+
+➡️ **Download the PDF from the Releases section of this repository.**
 
 ---
 
