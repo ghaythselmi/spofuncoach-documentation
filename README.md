@@ -30,10 +30,9 @@ This repository focuses exclusively on the **analysis and design phase** of the 
 
 ## 🛠️ Tools Used
 
-The UML diagrams and system conception were created using:
-
-- **draw.io (diagrams.net)**
-- PDF documentation
+- **draw.io** – UML diagrams and system design
+- **Figma** – User interface (UI) design and prototyping
+- **Overleaf (LaTeX)** – Technical report writing and PDF generation
 
 ---
 
@@ -47,13 +46,14 @@ For that reason, I decided to share the conception of this project publicly. If 
 
 ## 📄 Download
 
-The complete project report is available in the latest release.
+The complete project report is available in the latest release .
 
 ➡️ **Download the PDF from the Releases section of this repository.**
+> **Note:** The report is written in **French**.
 
 ---
 
-## 📌 Note
+## 📌 Notes
 
 This repository is intended for **educational purposes**.
 
